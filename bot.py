@@ -20,8 +20,8 @@ from telegram.ext import (
 from telegram.constants import ParseMode
 
 # ─── НАСТРОЙКИ ──────────────────────────────────────────────────────────────
-BOT_TOKEN = "8772939585:AAG4izepyO-4H1Kzk_npbagFhO80AXE4xLs"
-ADMIN_CHAT_ID = 474705465
+BOT_TOKEN = ("BOT_TOKEN")
+ADMIN_CHAT_ID = ("ADMIN_CHAT_ID")
 KASPI_QR_URL = "https://pay.kaspi.kz/pay/rrpncedw"
 DB_FILE = "applications.json"
 
